@@ -12,8 +12,3 @@ The function download_site(url, level) contains the following parameters
 
 1. url - the URL of a specific web site page 
 2. level - the number of levels to download. 
-
-#### Example
-```
-download_site https://www.cnn.com 2
-```
